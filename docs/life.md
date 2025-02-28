@@ -11,7 +11,7 @@ Particularly the part around 5:42. It seems a very plausible explanation to me.
 
 Regardless of the mechanical mechanism, we can say the very first cell(s) must have started empty or near empty, and that’s all that’s needed to model life. Consider a lipid sphere suspended in a liquid solution that contains another liquid solution with a basic molecule at its center:
 
-![model cell](docs/modelcell.png "modelcell")
+![model cell](modelcell.png "modelcell")
 
 We’re assuming that a basic molecule can be captured during the formation of the lipid sphere. When the lipid film folds over onto itself forming a sphere, there’s statistically a good chance that other molecules can be enclosed.
 
