@@ -3,6 +3,9 @@
 1
 1/2
 3=1+2
+1/4=1/2*1/2
+1/16=1/4*1/4
+1/x**2=1/x*1/x
 
 
 # This code might seem meaningless and trivial but it’s absolutely necessary in order to initialize the universe from first principles.
@@ -20,7 +23,7 @@
 # Now that we have 3 lines of information, we can speak of 3, which we introduce along with addition operator
 # Line 5 is 3, which we introduce as 1+2
 
-# At this point, this should be all the information needed to create a number line of arbitrary length and rotate it into arbitrary number of dimensions.
+# This should be all the information needed to create a number line of arbitrary length and rotate it into arbitrary number of dimensions.
 # To summarize, we've initialized the notions of nothing, something, motion, quantity, division and addition in a particular order that does not violate first principles.
 # When most people speak of the initial condition, they assume all these concepts already exist.
 
@@ -42,8 +45,21 @@
 # Technically the universe could leverage a pseudo expansion rate, if there's a need for it, but the actual expansion rate of space is ¼=1/2*1/2
 
 # Line 6:
-¼=1/2*1/2
+# 1/4=1/2*1/2
 
+# Line 7:
+# 1/16=1/4*1/4
+# 1/256=1/16*1/16
+# 1/65536=1/256*1/256
 
-# At this point in the universe, we've managed to create a 2d surface that can be infinitely fractured at a rate of ¼=1/2*1/2 without violating any first principles. What to do next?
-# Line 7 is a mystery for now...
+# Lines 6, 7 and 8 have a pattern and so line 8 can be written as a condition, the first of its type.
+# If the universe has 2 total vectors thus far and we have introduced multiplication then we can do 1/4=1/2*1/2
+# If the universe has 4 total vectors then we can do 1/16=1/4*1/4
+# If the universe has 16 total vectors then we can do 1/256=1/16*1/16
+# If the universe has 256 total vectors then we can do 1/65536=1/256*1/256
+# More generally, it's exponential expansion x=x**2
+# The pattern or condition is the total number of line segments (vectors) thus far, multiplied by itself.
+# This is the max speed that a number line can be extended and the max speed of fractal flow.
+# It's also the max possible width of the universe, measured as total number of line segments.
+
+# At this point in the universe, we've managed to create a 2d surface that can be infinitely fractured at an expontential rate of x=x**2 without violating any first principles. What to do next?
