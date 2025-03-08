@@ -1,3 +1,5 @@
+![alt text](init.png)
+
 Now that the universe is initialized, I can explain how it works.
 
 Starting from first principles, the universe must begin with nothing, then something, then motion. But nothing is defined as the absence of something, so if the universe starts with nothing, then at that point we wouldn’t refer to it as nothing, we would just simply say that’s how it is. It’s only when we have something, a point particle, then we can speak of what it means to materialize into physical existence.
