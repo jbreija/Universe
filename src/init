@@ -1,8 +1,8 @@
-
+ 
 0
 1
 1/2
-3=1+2
+2=1+1
 1/4=1/2*1/2
 1/16=1/4*1/4
 1/x**2=1/x*1/x
@@ -20,8 +20,7 @@
 
 # Line 4 is quantity, also known as 2, but we introduce it along with the division operator as being the midpoint between 0 and 1.
 
-# Now that we have 3 lines of information, we can speak of 3, which we introduce along with addition operator
-# Line 5 is 3, which we introduce as 1+2
+# Now that we have 1/2 of 1, it can be deduced that 2=1+1 at the location of 1/2
 
 # This should be all the information needed to create a number line of arbitrary length and rotate it into arbitrary number of dimensions.
 # To summarize, we've initialized the notions of nothing, something, motion, quantity, division and addition in a particular order that does not violate first principles.
@@ -34,14 +33,10 @@
 # The initial condition is the minimal set of statements (or state transitions) needed to reconstruct all of mathematics and initialize the universe from first principles.
 # Starting from first principles, the universe had to of started that way, there are no other possible state transitions.
 
-# Line 6 is the notion of 4, but there are two possible ways of introducing it. In other words, there are two possible valid state transitions.
-# 4=3+1
-# ¼=1/2*1/2
-# Keep in mind that when we speak of “4”, we’re referring to the fact that the universe has 3 vectors in space so far and we’re going to introduce a 4th. 
-# We can take 2 existing vectors and divide them in half, resulting in the notion of 4 or we can simply add a 4th vector as 4=3+1.
-# I think ¼=1/2*1/2 is the logical choice because 4=3+1 offers nothing new, although it's still a valid choice.
+# Line 6 is 1/4=1/2*1/2 because if we know 2=1+1, and we've already applied 1/2 to 1, then it can automatically be deduced that 1/2 * 1/2 is a valid operation. Thus 1/4=1/2*1/2 is the next state transition. 
 
-# ¼=1/2*1/2 shall be known as the fractal operator. It's the expansion rate of space. The rate in which space is fractured.
+
+# ¼=1/2*1/2 shall be known as the fractal operator or momentum. It's the expansion rate of space. The rate in which space is fractured.
 # Technically the universe could leverage a pseudo expansion rate, if there's a need for it, but the actual expansion rate of space is ¼=1/2*1/2
 
 # Line 6:
