@@ -12,3 +12,13 @@ The second vector, or state transition, is just an inversion of the first and ac
 Now that the universe is initialized as a surface, we must determine how to energize hadron ground states and distribute them from the initial condition. 
 
 jmb
+
+
+UPDATE:
+The story goes like this,
+You start with **nothing** then get **something**.
+The only thing you can do is put in **motion** some **quantities** in multiple **dimensions**. Your only tool is **momentum**.
+
+![alt text](rules.png)
+
+The question is, what can you do with that? Apparently, someone or something figured out the universe as we know it. *apparently*, or else I wouldn’t be here writing about it. It seems hadrons are the fundamental unit of computation in the universe. It’s just a matter of energizing hadrons and distributing them. 
