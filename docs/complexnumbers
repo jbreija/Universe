@@ -1,0 +1,21 @@
+FYI, the entire existence of imaginary numbers (also known as complex numbers) arises when taking the sqrt of negative numbers.
+
+When calculating the volumes of shapes from formulas, sometimes the formulas require taking the sqrt of a negative number. (See Heron of Alexandria calculating a frustum)
+
+But still even to this day, modern mathematicians don't seem to realize that sqrt is not the inverse of x*x.
+
+Sqrt is the process of counting points on a line (always positive), multiplication is the process of adding points to a line.
+
+These are two different things and not inverses of each other. 
+
+Further, division is not the inverse of multiplication. Division is the location of points on a line and subtraction is the motion of points on a line.
+
+There is no process for removing points on a line, that means you messed up and need to start over with a new line, thankfully the whole numbers are infinite.
+
+Complex numbers should be thought of as projections into the space of "nothing" in init.png.
+
+It's like running out of bounds when playing a sporting event, leveraging the out of bounds, then running back in bounds to score points.
+
+Just know that although it's helpful to do this as a human inside the universe, it's not actually needed when rendering the universe from first principles.
+
+This whole topic stems from the confusion that sqrt is not the process of measuring length or removing points from a line, it's the process of counting points on a line which is always positive.
