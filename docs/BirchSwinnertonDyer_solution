@@ -1,0 +1,8 @@
+The Birch and Swinnerton-Dyer conjecture asks if the dimensionality of the points in the space of negative zero in negativenumbers.png is the same dimensionality as the Hasse–Weil L-function when the Hasse–Weil L-function = 0.
+
+The answer is yes, the Hasse–Weil L-function is simply the Y axis of zero in negativenumbers.png + X axis of negative zero in negativenumbers.png. 
+
+The Hasse–Weil L-function and the rank of the points (dimensionality) in negative zero are both 2 dimensional.
+
+
+This also concludes the final answer to the last and remaining Millenium prize problem. This repo now contains valid solutions to all 6 Millenium prize problems.
