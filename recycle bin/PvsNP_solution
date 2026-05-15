@@ -1,0 +1,4 @@
+Since we’ve already shown that the max speed a number line can be extended is polynomial time, x**2, this is also the upper complexity bound of all algorithms in the universe.
+Thus, all problems in the universe that can be verified in polynomial time can also be solved in polynomial time.
+Therefore, P does indeed = NP
+However, we already knew that the discovery of all mathematical proofs could be automated just by looking at rules.png.

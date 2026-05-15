@@ -1,0 +1,5 @@
+Apparently, the hodge conjecture inquires about the zeros of complex numbers, very similar to the Riemann hypothesis. Specifically, mathematicians want to know if detecting holes in complex algebraic varieties is possible using the zeros of complex polynomials.
+
+The answer is yes, just look at init.png, which is the space of complex zeros, all of which are accessible in polynomial time. If there were a hole in the space of zero, it would be detected in polynomial time.
+
+Very similar to the Riemann hypothesis, the major overlook on the hodge conjecture solution is that zero is a space, not a point. 
